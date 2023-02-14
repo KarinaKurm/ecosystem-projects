@@ -1,0 +1,16 @@
+{
+  "name": "Swing",
+  "slug": "swing",
+  "date": "2023-02-13",
+  "highlight": "Swing provides a single liquidity integration layer that aggregates all cross-chain bridges, DEXes, and DEX aggregators.",
+  "logo": "/img/swinglogo.png",
+  "tags": ["swing","bridge","multi-chain"],
+  "status": "live",
+  "website": "https://swing.xyz/",
+  "twitter": "https://twitter.com/swing_xyz",
+  "summary": "Swing provides a single liquidity integration layer that aggregates all cross-chain bridges, DEXes, and DEX aggregators. We’re a cross-chain liquidity protocol that connects dApp builders with blockchain ecosystems, applications and users for seamless cross-chain communication.",
+  "telegram": "https://t.me/swingxyzANN",
+  "discord": "https://discord.gg/swingxyz",
+  "docs":"https://developers.swing.xyz/",
+  "github":"https://github.com/polkaswitch",
+}
